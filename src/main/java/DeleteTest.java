@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import java.io.File;
 
 public class DeleteTest {
-    private String token = "T_HHsYQ_bv4AAAAAAAAAAU2mw48OB2EfjFEEm-vlkcdUi1nGt3ygT9AvP-GNKSGT";
+    private final String token = "T_HHsYQ_bv4AAAAAAAAAAU2mw48OB2EfjFEEm-vlkcdUi1nGt3ygT9AvP-GNKSGT";
 
     @Test
     public void deleteTest() {

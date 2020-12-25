@@ -7,7 +7,7 @@ import java.awt.image.Kernel;
 import java.io.File;
 
 public class GetFileMetaDataTest {
-    private String token = "T_HHsYQ_bv4AAAAAAAAAAU2mw48OB2EfjFEEm-vlkcdUi1nGt3ygT9AvP-GNKSGT";
+    private final String token = "T_HHsYQ_bv4AAAAAAAAAAU2mw48OB2EfjFEEm-vlkcdUi1nGt3ygT9AvP-GNKSGT";
 
     @Test
     public void getMetaDataTest() {
